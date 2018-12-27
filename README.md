@@ -1,2 +1,2 @@
 # HU-CISC504
-All assignment for CISC 504
+All assignments for CISC 504
